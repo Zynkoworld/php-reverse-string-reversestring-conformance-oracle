@@ -1,0 +1,6 @@
+{"input": "", "expect": "", "raised": false, "task": "reverse-string", "lang": "php"}
+{"input": "robot", "expect": "tobor", "raised": false, "task": "reverse-string", "lang": "php"}
+{"input": "Ramen", "expect": "nemaR", "raised": false, "task": "reverse-string", "lang": "php"}
+{"input": "I'm hungry!", "expect": "!yrgnuh m'I", "raised": false, "task": "reverse-string", "lang": "php"}
+{"input": "racecar", "expect": "racecar", "raised": false, "task": "reverse-string", "lang": "php"}
+{"input": "drawer", "expect": "reward", "raised": false, "task": "reverse-string", "lang": "php"}
